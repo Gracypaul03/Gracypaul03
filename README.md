@@ -7,7 +7,7 @@
 💻 I am interested in solving real-world problems through technology.
 
 🚀 **My Project**
-- Retail Demand Forecasting & Smart Inventory Alert System
+- [Retail Demand Forecasting & Smart Inventory Alert System](https://github.com/Gracypaul03/Gracy-)
 
 📚 **Currently Learning**
 - Python
